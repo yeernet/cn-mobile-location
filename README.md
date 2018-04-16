@@ -9,7 +9,7 @@
 ## 安装运行
 
 ```bash
-  git clone https://github.com/openyun/cn-mobile-location.git
+  https://github.com/yeernet/cn-mobile-location.git
   cd cn-mobile-location
   npm install 
   npm start
